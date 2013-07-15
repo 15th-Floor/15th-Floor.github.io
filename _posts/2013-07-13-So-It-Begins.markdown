@@ -4,14 +4,17 @@ title: So It Begins
 category: posts
 ---
 
-Totally and utterly meaningless.
-Pleased to meet you.
+Hi.
+Here's my first post.
+
+Here's some daeji bulgogi from my recent trip to Korea:
+<img src="/images/daeji-bulgogi.jpg" alt="pork bulgogi" style="width: 200px;"/>
 
 
-[Terror/Acid][aphex].
+[Here's a good song][rabbit].
 
 Watch me blather and retweet music on
 [twitter][twitter].
 
-[aphex]: http://youtu.be/FATTzbm78cc
+[rabbit]: http://youtu.be/YNWFHpPu1qs
 [twitter]: https://twitter.com/donkeypetoncle
