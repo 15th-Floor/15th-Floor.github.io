@@ -9,7 +9,7 @@ Here's my first post.
 
 Here's some daeji bulgogi from my recent trip to Korea:
 
-<img src="/images/daeji-bulgogi.jpg" alt="pork bulgogi" style="width: 200px;"/>
+<img src="/images/daeji-bulgogi.jpg" alt="pork-bulgogi" style="width: 410px;"/>
 
 
 [Here's a good song][rabbit].
